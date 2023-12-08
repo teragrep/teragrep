@@ -66,10 +66,10 @@ This is a portal page for accessing different parts of Teragrep.
 |rsyslog regex perfect file input plugin
 
 |https://github.com/teragrep/rlo_06[rlo_06]
-|RFC5424 Java parser
+|Syslog (RFC 5424) library for Java
 
 |https://github.com/teragrep/rlo_08[rlo_08]
-|JavaScript RFC5424 syslog library
+|Syslog (RFC 5424) formatter for JavaScript
 
 |https://github.com/teragrep/rlp_01[rlp_01]
 |Java RELP library
