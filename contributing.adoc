@@ -1,0 +1,13 @@
+= Contributing to Teragrep
+
+TBA
+
+== Pull Requests
+
+TBA
+  
+== Code Guidelines
+
+// add object thinking and elegant objects
+
+TBA
