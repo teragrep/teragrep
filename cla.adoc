@@ -1,0 +1,23 @@
+= Teragrep Contributor License Agreement
+
+Thank you for being a contributor to the program ("The Program") made available by Suomen Kanuuna Oy or its affiliates ("Teragrep"). For the clarity of the intellectual property rights in The Program, and to grant licenses to The Program to others, Teragrep requires you to accept this Contributor License Agreement ("Agreement"). This Agreement sets out the terms governing any copyrightable work, that you submit or have submitted, in any form and in any manner to Teragrep in respect of any of The Programs (collectively “Contributions”). You may still license your own Contributions under other terms.
+ 
+You agree that the following terms and conditions apply to all of your Contributions including past, present and current ones. If you are a current or former employee of Teragrep, your rights may be governed by Employment Contract, and nothing in this Agreement shall be construed as modifying the terms of a such contract.
+ 
+You hereby grant to Teragrep and to recipients of software distributed by Teragrep a irrevocable, worldwide, non-exclusive, no-charge, royalty-free, transferable, perpetual copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, and distribute your Contributions and such derivative works under license terms of Teragrep’s choosing as well as the right to sublicense the foregoing rights through multiple tiers of sublicensees.
+ 
+You hereby grant to Teragrep a non-exclusive, worldwide, royalty-free, perpetual, no-charge, irrevocable, transferable patent license to make, use, sell, offer for sale, import and otherwise run, modify and transfer your Contributions, where such license applies only to those patent claims licensable by you that are necessarily infringed by your Contribution(s) alone or by combination of your Contribution(s) to Teragrep Programs as well as the right to sublicense through multiple tiers of sublicensees.
+ 
+You represent and warrant to Teragrep that: (i) you have the full right, power and authority to enter into the Agreement, (ii) to grant the rights and licenses granted hereunder, and to perform the acts required of it hereunder.
+ 
+You represent that any content included in your Contribution(s) is your original creation.
+ 
+You are not required to provide support service, warranty, or updates for your Contribution(s), except to the extent you desire to provide support. Your Contribution(s) are provided "as is" without any warranties or conditions, express or implied, including, without limitation, any implied warranties or conditions of non-infringement, merchantability or fitness for a particular purpose, to the extent permitted by tapplicable law.
+ 
+You acknowledge that Teragrep is under no obligation to use or incoroprate your Contribution(s) into The Program(s). The decision to use or incorporate your Contribution(s) is at the sole discretion of Teragrep or it's authorized delegates.
+ 
+This Agreement shall be governed by and construed in accordance with Finnish law without giving effect to its choice of law provisions.
+ 
+Any dispute, controversy or claim arising out of or relating to this contract, or the breach, termination or validity thereof, shall be finally settled by arbitration in accordance with the Arbitration Rules of the Finland Chamber of Commerce. The place of arbitration shall be Helsinki, Finland and the language to be used in the proceedings shall be English.
+ 
+You agree that Teragrep may assign this Agreement, and all of its rights, obligations and licenses hereunder.
