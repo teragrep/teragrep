@@ -8,6 +8,9 @@ This is a portal page for accessing different parts of Teragrep.
 |===
 |Component |Description
 
+|https://github.com/teragrep/ajs_01[ajs_01]
+|Teragrep user-interface
+
 |https://github.com/teragrep/blf_01[blf_01]
 |Bloom filter library
 
@@ -15,7 +18,7 @@ This is a portal page for accessing different parts of Teragrep.
 |MariaDB bloom filter plugin
 
 |https://github.com/teragrep/bos_01[bos_01]
-|Binary Object Store
+|Teragrep flavor repack of s3proxy
 
 |https://github.com/teragrep/cfe_16[cfe_16]
 |HTTP event capture to RFC5424
@@ -27,7 +30,7 @@ This is a portal page for accessing different parts of Teragrep.
 |Batch collect
 
 |https://github.com/teragrep/dpf_03[dpf_03]
-|Tokenizer
+|Tokenizer Aggregator
 
 |https://github.com/teragrep/jla_01[jla_01]
 |Logback RELP appender library
@@ -56,8 +59,17 @@ This is a portal page for accessing different parts of Teragrep.
 |https://github.com/teragrep/jue_01[jue_01]
 |Java UNIX Extensions
 
+|https://github.com/teragrep/pth_03[pth_03]
+|Data Processing Language (DPL) parser
+
 |https://github.com/teragrep/pth_06[pth_06]
-|Archive Spark datasource
+|Teragrep Datasource for Apache Spark
+
+|https://github.com/teragrep/pth_07[pth_07]
+|Data Processing Language (DPL) Interpreter for Apache Zeppelin
+
+|https://github.com/teragrep/pth_10[pth_10]
+|Data Processing Language (DPL) translator for Apache Spark
 
 |https://github.com/teragrep/rad_01[rad_01]
 |Record Audit Data library
@@ -82,4 +94,7 @@ This is a portal page for accessing different parts of Teragrep.
 
 |https://github.com/teragrep/rlp_05[rlp_05]
 |Go RELP library
+
+|https://github.com/teragrep/zep_01[zep_01]
+|Teragrep back-end 
 |=== 
