@@ -8,93 +8,198 @@ This is a portal page for accessing different parts of Teragrep.
 |===
 |Component |Description
 
+|https://github.com/teragrep/aer_01[aer_01]
+|Teragrep syslog bridge for Microsoft Azure EventHub
+
+|https://github.com/teragrep/aer_02[aer_02]
+|Teragrep syslog bridge function for Microsoft Azure EventHub
+
 |https://github.com/teragrep/ajs_01[ajs_01]
 |Teragrep user-interface
 
+|https://github.com/teragrep/akv_01[akv_01]
+|Teragrep Key Value Mapping for Microsoft Azure EventHub
+
 |https://github.com/teragrep/blf_01[blf_01]
-|Bloom filter library
+|Tokenizer for Teragrep
 
 |https://github.com/teragrep/blf_02[blf_02]
-|MariaDB bloom filter plugin
+|Teragrep Bloom filter plugin for MariaDB
 
 |https://github.com/teragrep/bos_01[bos_01]
-|Teragrep flavor repack of s3proxy
+|Teragrep repack for s3proxy
 
 |https://github.com/teragrep/cfe_16[cfe_16]
-|HTTP event capture to RFC5424
+|Teragrep data capture for HTTP events
+
+|https://github.com/teragrep/cfe_18[cfe_18]
+|Integration main data management for Teragrep
+
+|https://github.com/teragrep/cfe_31[cfe_31]
+|Integration data conversion tool for Teragrep
+
+|https://github.com/teragrep/cfe_35[cfe_35]
+|Record Router for Teragrep
+
+|https://github.com/teragrep/cfe_39[cfe_39]
+|Teragrep record ingestion for HDFS
+
+|https://github.com/teragrep/cfe_41[cfe_41]
+|Integration Command-line tool for Teragrep
+
+|https://github.com/teragrep/cnf_01[cnf_01]
+|Teragrep Configuration Library for Java
+
+|https://github.com/teragrep/cnf_02[cnf_02]
+|Teragrep Configuration Wrapper for com.typesafe.config
+
+|https://github.com/teragrep/dkr_01[dkr_01]
+|Teragrep RELP Logging Driver for Docker
 
 |https://github.com/teragrep/doc_01[doc_01]
 |Teragrep documentation
 
 |https://github.com/teragrep/dpf_02[dpf_02]
-|Batch collect
+|Teragrep Result Aggregation for Apache Spark
 
 |https://github.com/teragrep/dpf_03[dpf_03]
-|Tokenizer Aggregator
+|Teragrep Tokenizer for Apache Spark
+
+|https://github.com/teragrep/hbs_02[hbs_02]
+|Teragrep installer for HBase
+
+|https://github.com/teragrep/hbs_03[hbs_03]
+|Teragrep metadata store for HBase
+
+|https://github.com/teragrep/hdp_04[hdp_04]
+|Execution Requisites
+
+|https://github.com/teragrep/jai_01[jai_01]
+|Teragrep Authorization Info in JSON for Java
+
+|https://github.com/teragrep/jai_02[jai_02]
+|Teragrep Authentication Info in JSON for Java
 
 |https://github.com/teragrep/jla_01[jla_01]
-|Logback RELP appender library
+|Teragrep RELP plugin for Logback
 
 |https://github.com/teragrep/jla_02[jla_02]
-|Example source for jla_01
+|Example Source for jla_XX loggers
 
 |https://github.com/teragrep/jla_04[jla_04]
-|Java Util logging RELP handler
+|Teragrep RELP Handler for Java Util Logging
 
 |https://github.com/teragrep/jla_05[jla_05]
-|Log4j RELP plugin
+|Teragrep RELP appender for Log4j 1.x
 
 |https://github.com/teragrep/jla_06[jla_06]
-|Log4j2 RELP plugin
+|Teragrep RELP appender for Log4j2
 
 |https://github.com/teragrep/jlt_01[jlt_01]
-|Java lookup tables
+|Teragrep Lookup Table Library for Java
+
+|https://github.com/teragrep/jos_01[jos_01]
+|Teragrep Operating System Statistics Library for Java
 
 |https://github.com/teragrep/jpr_01[jpr_01]
-|Java PCRE library
+|Teragrep PCRE 2 Library for Java
 
 |https://github.com/teragrep/jsa_01[jsa_01]
-|JavaScript Log4js appender
+|Teragrep RELP appender for Log4js
 
 |https://github.com/teragrep/jue_01[jue_01]
-|Java UNIX Extensions
+|Teragrep extension library for Java on UNIX
+
+|https://github.com/teragrep/k8s_01[k8s_01]
+|Teragrep RELP logging operator for Kubernetes
+
+|https://github.com/teragrep/mvn_01[mvn_01]
+|Project archetype for Teragrep
+
+|https://github.com/teragrep/nbs_01[nbs_01]
+|Notebook server for Teragrep Backend
+
+|https://github.com/teragrep/net_01[net_01]
+|Teragrep zero copy networking library for Java
+
+|https://github.com/teragrep/nlf_01[nlf_01]
+|Teragrep Neon log format plugin for AKV_01
 
 |https://github.com/teragrep/pth_03[pth_03]
-|Data Processing Language (DPL) parser
+|Data Processing Language (DPL) grammar for Teragrep
+
+|https://github.com/teragrep/pth_05[pth_05]
+|Authorization scheme for Teragrep archive
 
 |https://github.com/teragrep/pth_06[pth_06]
 |Teragrep Datasource for Apache Spark
-
-|https://github.com/teragrep/pth_07[pth_07]
-|Data Processing Language (DPL) Interpreter for Apache Zeppelin
 
 |https://github.com/teragrep/pth_10[pth_10]
 |Data Processing Language (DPL) translator for Apache Spark
 
 |https://github.com/teragrep/rad_01[rad_01]
-|Record Audit Data library
+|Record Access Audit Framework for Teragrep
+
+|https://github.com/teragrep/rde_01[rde_01]
+|Record Data Mapper for Teragrep
 
 |https://github.com/teragrep/rlo_04[rlo_04]
-|rsyslog regex perfect file input plugin
+|Teragrep file input plugin for rsyslog
 
 |https://github.com/teragrep/rlo_06[rlo_06]
-|Syslog (RFC 5424) library for Java
+|Teragrep syslog (RFC 5424) library for Java
 
 |https://github.com/teragrep/rlo_08[rlo_08]
 |Syslog (RFC 5424) formatter for JavaScript
 
+|https://github.com/teragrep/rlo_11[rlo_11]
+|Teragrep Record Router Library for Java
+
+|https://github.com/teragrep/rlo_12[rlo_12]
+|Teragrep Recursive File Event Monitor for Java
+
+|https://github.com/teragrep/rlo_13[rlo_13]
+|Teragrep file reader with persistence for Java
+
 |https://github.com/teragrep/rlp_01[rlp_01]
-|Java RELP library
+|Teragrep Reliable Event Logging Protocol (RELP) Library for Java
 
 |https://github.com/teragrep/rlp_02[rlp_02]
-|NodeJS RELP library
+|Teragrep RELP client for JavaScript
 
 |https://github.com/teragrep/rlp_03[rlp_03]
-|Java RELP server library
+|Teragrep RELP library for Java
 
 |https://github.com/teragrep/rlp_05[rlp_05]
-|Go RELP library
+|Teragrep RELP library for Go
+
+|https://github.com/teragrep/rlp_06[rlp_06]
+|Teragrep Syslog-RELP Developer Example for Java
+
+|https://github.com/teragrep/rlp_07[rlp_07]
+|Teragrep RELP syslog to standard output server application
+
+|https://github.com/teragrep/rlp_08[rlp_08]
+|Teragrep RELP syslog discard server application
+
+|https://github.com/teragrep/rlp_09[rlp_09]
+|Teragrep RELP syslog performance test client for Java
+
+|https://github.com/teragrep/rlp_10[rlp_10]
+|Teragrep RELP syslog performance test client application
+
+|https://github.com/teragrep/rlp_11[rlp_11]
+|Teragrep RELP commit latency probe client application
+
+|https://github.com/teragrep/rsm_01[rsm_01]
+|Teragrep record schema mapper library for Java
+
+|https://github.com/teragrep/snw_01[snw_01]
+|Teragrep RELP syslog export for ServiceNow tables
+
+|https://github.com/teragrep/syn_01[syn_01]
+|Teragrep Syntax Library for Java
 
 |https://github.com/teragrep/zep_01[zep_01]
-|Teragrep back-end 
+|User interface back-end for Teragrep
 |=== 
